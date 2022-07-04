@@ -1,0 +1,30 @@
+* {
+  font-family: 'Nunito', sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+body {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+div {
+  margin-top: 24px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+  font-family: 'Poppins';
+}
